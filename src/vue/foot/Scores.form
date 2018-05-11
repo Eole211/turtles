@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="vue.foot.Scores">
+  <grid id="27dc6" binding="Score" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="250" height="41"/>
+    </constraints>
+    <properties>
+      <minimumSize width="250" height="26"/>
+      <preferredSize width="250" height="50"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="54924" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="ea311" class="javax.swing.JLabel" binding="labelTeam1Name">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="ca427" class="javax.swing.JLabel" binding="labelTeam1Score">
+        <constraints/>
+        <properties>
+          <text value="0"/>
+        </properties>
+      </component>
+      <hspacer id="dc874">
+        <constraints/>
+      </hspacer>
+      <component id="85dd8" class="javax.swing.JLabel" binding="labelTeam2Score">
+        <constraints/>
+        <properties>
+          <text value="0"/>
+        </properties>
+      </component>
+      <component id="69f07" class="javax.swing.JLabel" binding="labelTeam2Name">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
