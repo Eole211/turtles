@@ -10,6 +10,6 @@ Turtles parameters are editable in game
 
 Launch Party Mode for maximum turtle fun
 
-[Screenshot](screenshot.jpg)
+![Ingame Screenshot](screenshot.jpg "Ingame Screenshot")
 
 
